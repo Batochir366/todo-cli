@@ -7,4 +7,4 @@ console.log("welcome to todo-cli");
 const todoArgvs = process.argv.slice(2);
 
 console.log(todoArgvs);
-// commandBuilder(todoArgvs);
+commandBuilder(todoArgvs);
